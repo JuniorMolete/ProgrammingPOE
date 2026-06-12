@@ -1,0 +1,1 @@
+This application is a console based messaging system that allows users to register, log in and send messages. The program validates user information, stores message details and provides feedback to the user through menu options. It demonstrates the use of classes, methods, arrays, loops,and conditional statements to manage user interactions and message processing
